@@ -14,7 +14,6 @@ Library / external APIs yang digunakan:
 - image (image preprocessing)
 - camera / image_picker (mengambil foto dari perangkat)
 - OpenWeatherMap API (digunakan oleh service rekomendasi cuaca)
-- google_generative_ai (opsional, digunakan untuk fitur penjelasan atau ringkasan rekomendasi)
 
 Assets model disimpan di `assets/models/model_padi.tflite` dan label di `assets/models/labels.txt`.
 
